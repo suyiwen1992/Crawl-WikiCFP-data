@@ -1,2 +1,2 @@
 # Crawl-WikiCFP-data
-Crawl WikiCFP for data mining, machine learning, database, and AI conferences and their location every year.When searching per category, WikiCFP allows navigation until page 20, so I crawled all 20 pages for data mining, databases, artificial intelligence, and machine learning. The output of the crawling is in the tab-separated format: conference_acronym conference_name conference_location
+
