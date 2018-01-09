@@ -1,2 +1,2 @@
-# Crawl-WikiCFP-data
+# Crawl-WikiCFP-data and use Hadoop to analyze the data
 In this part, Hadoop is used on the data crawled to compute various statistics. Wordcount1.java computes and outputs the number of conferences per city. Wordcount2.java outputs the list of conferences per city. In Wordcount3.java, for each conference regardless of the year, it outputs the list of cities. For each city, Wordcount4.java computes and outputs a time series of number of conferences per year.
